@@ -136,7 +136,7 @@ psycopg2==2.8.2
 psycopg2-binary==2.8.2
 ptyprocess==0.5.2
 public==2019.4.13
-py==1.5.3
+py==1.10.0
 pyasn1==0.4.5
 pyasn1-modules==0.2.5
 pycodestyle==2.4.0
